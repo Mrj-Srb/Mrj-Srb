@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🔭 I’m currently working on Django Framework<br>📚 I'm currently learning Advanced and Deep Stuff In Django And Back-End World.<br>🎯 Goals: Being My Best, Reach The Top Positions In World of Developers.<br>🎲 More About Me: Well, i'm 16 Years old and i Always Trying to Keep Myself Up to Date and Use My Time to  Improve Myself.</p>
+<p align="left">✨ Creating bugs since 2022<br>🔭 I’m currently working on Django Framework<br>📚 I'm currently learning Advanced and Deep Stuff In Django And Back-End World.<br>🎯 Goals: Being My Best, Reach The Top Positions In World of Developers.<br>🎲 More About Me: Well, i'm 17 Years old and i Always Trying to Keep Myself Up to Date and Use My Time to  Improve Myself.</p>
 
 ###
 
